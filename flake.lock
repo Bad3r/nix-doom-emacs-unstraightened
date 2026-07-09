@@ -4,16 +4,16 @@
       "flake": false,
       "locked": {
         "dir": "doomdir",
-        "lastModified": 1783506694,
-        "narHash": "sha256-G4O/7kEhl7bgBSz5FMyrDGUygJSiFFhMslKBjWWALl8=",
-        "owner": "marienz",
+        "lastModified": 1783589558,
+        "narHash": "sha256-PwF6PcTYZkEwyxwLDDO6rMXXIL3I+croJI2ekCUyhos=",
+        "owner": "Bad3r",
         "repo": "nix-doom-emacs-unstraightened",
-        "rev": "d303e5297a3be204797204ad2c2aa99a0523304b",
+        "rev": "c6028198e16631521192ffc8904bc42be2364ae8",
         "type": "github"
       },
       "original": {
         "dir": "doomdir",
-        "owner": "marienz",
+        "owner": "Bad3r",
         "repo": "nix-doom-emacs-unstraightened",
         "type": "github"
       }
