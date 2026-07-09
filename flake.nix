@@ -34,7 +34,7 @@
       };
     };
     doomdir = {
-      url = ./doomdir;
+      url = "github:marienz/nix-doom-emacs-unstraightened?dir=doomdir";
       flake = false;
     };
   };
